@@ -34,7 +34,7 @@ Than we used Logistic Regression which takes a regular linear regression and app
 1) Please check whether you have installed the necessary packages.
 2) Download the chromedriver and update the chromedriver path in the skytrax_scraping.py file.
 3) Execute the skytrax_scraping.py file to scrape the reviews data from the skytrax. Please the stop the execution manually if you think you have enough data.
-4) Execute Topic Modelling.py
+4) Execute topic_modelling.py to check the relevant topics.
 5) Execute sentiment_analysis.py which ouput file which consists of the sentiment score for each of the reviews. It also prints the top 20 positive and negative words.
 
 Link to the webscraped data
