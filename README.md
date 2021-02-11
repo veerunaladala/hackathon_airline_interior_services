@@ -1,4 +1,4 @@
-# Hackathon_airline_interior_services
+# Hackathon_Airline_Interior_Services
 
 # About the hackathon
 
