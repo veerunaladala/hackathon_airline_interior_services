@@ -1,4 +1,4 @@
-# hackathon_airline_interior_services
+# Hackathon_airline_interior_services
 
 # About the hackathon
 
@@ -29,7 +29,7 @@ We often use sentiment analysis on textual data to help businesses monitor brand
 First we clean the comments and then use TF-IDF vectorizer which will tokenize comments, learn the vocabulary and inverse document frequency weightings, and allow you to encode new documents.
 Than we used Logistic Regression which takes a regular linear regression and applies a sigmoid to the output of the linear regression topredict the sentiment of the reviews.
 
-# how to Run
+# How to Run
 
 1) Please check whether you have installed the necessary packages.
 2) Download the chromedriver and update the chromedriver path in the skytrax_scraping.py file.
